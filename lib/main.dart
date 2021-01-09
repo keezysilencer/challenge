@@ -113,11 +113,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-//FlatButton(
-//                     onPressed: () =>
-//                         Navigator.of(context).pushNamed(Routes.forgotPassword),
-//                     child: Text('Forgot Password?',
-//                         style: TextStyle(
-//                             color: Theme.of(context).primaryColor,
-//                             fontWeight: FontWeight.w500)),
-//                   ),
